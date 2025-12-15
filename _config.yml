@@ -22,16 +22,14 @@ title: The Tides Campaign
 email: case@hillworks.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Coming Soon
-baseurl: "/introduction"
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://campaign.screamat.me
 github_username:  connochio
 
 # Build settings
-# remote_theme: flancast90/millidocs-dark
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
