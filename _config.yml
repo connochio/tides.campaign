@@ -27,7 +27,8 @@ url: https://campaign.screamat.me
 github_username:  connochio
 
 # Build settings
-remote_theme: flancast90/millidocs-dark
+# remote_theme: flancast90/millidocs-dark
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
