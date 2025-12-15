@@ -27,7 +27,7 @@ url: https://campaign.screamat.me
 github_username:  connochio
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
