@@ -27,9 +27,8 @@ url: https://campaign.screamat.me
 github_username:  connochio
 
 # Build settings
-theme: just-the-docs
-plugins:
-  - jekyll-feed
+theme: minima
+markdown: kramdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
