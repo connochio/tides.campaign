@@ -4,6 +4,7 @@ gem "minima", "~> 2.5"
 gem "just-the-docs"
 
 gem "github-pages", "~> 232", group: :jekyll_plugins
+gem "jekyll-remote-theme"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
