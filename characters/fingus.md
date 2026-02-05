@@ -36,10 +36,6 @@ has_children: true
     <td><b>Gender</b></td>
     <td>Male</td>
   </tr>
-  <tr>
-    <td><b>Hair</b></td>
-    <td>Reddish Brown</td>
-  </tr>
 </table>
 
 
